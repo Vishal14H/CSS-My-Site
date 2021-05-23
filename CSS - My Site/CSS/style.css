@@ -61,5 +61,6 @@ h3{
 
 .skill-img2{
   height: 200px;
-  width: 500px
+  width: 500px;
+  border-radius: 50%;
 }
